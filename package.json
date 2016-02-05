@@ -1,6 +1,6 @@
 {
   "name": "base64encodedecode",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding / decoding.",
   "main": "index.js",
   "scripts": {
