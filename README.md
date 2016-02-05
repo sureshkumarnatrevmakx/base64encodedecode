@@ -1,6 +1,5 @@
 # base64encodedecode
-
-A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding / decoding.
+A fork of npm module
 
 # Installation
 	npm install base64encodedecode
@@ -9,11 +8,11 @@ A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding 
 
 **To find base64 encode of a string** 
 
-console.log(base64.base64Encode('nodejs'));
+	console.log(base64.base64Encode('nodejs'));
 
 **To find base64 decode of a string**
 
-console.log(base64.base64Decode('bm9kZWpz'));
+	console.log(base64.base64Decode('bm9kZWpz'));
 
 ## Tests
 
