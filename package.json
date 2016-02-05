@@ -1,6 +1,6 @@
 {
   "name": "base64encodedecode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding / decoding.",
   "main": "index.js",
   "scripts": {
@@ -13,17 +13,17 @@
     "encode-decode",
     "base64",
     "base64-encode-decode",
-	"base64encodedecode",
-	"base64-encode",
+    "base64encodedecode",
+    "base64-encode",
     "base64-encode",
     "base64-decode",
-	"base64decode",
+    "base64decode",
     "utf-8",
     "UTF-8",
     "base64-encode-utf8",
-	"base64encodeutf8",
+    "base64encodeutf8",
     "base64-decode-utf8",
-	"base64decodeutf8"
+    "base64decodeutf8"
   ],
   "repository": {
     "type": "git",
