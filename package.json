@@ -1,6 +1,6 @@
 {
   "name": "base64encodedecode",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding / decoding.",
   "main": "index.js",
   "scripts": {
@@ -37,13 +37,13 @@
   "license": "GPL-3.0",
   "dependencies": {},
   "devDependencies": {},
-  "gitHead": "7c9996e290729878ffade9f096ff9b2ca20a98be",
+  "gitHead": "",
   "bugs": {
     "url": "https://github.com/sureshkumarnatrevmakx/base64encodedecode/issues"
   },
   "homepage": "https://github.com/sureshkumarnatrevmakx/base64encodedecode#readme",
   "_id": "base64encodedecode@0.0.1",
-  "_shasum": "8b3b3db4894ba90c53d97035d066463136d25277",
+  "_shasum": "",
   "_from": "node_modules\\base64encodedecode",
   "_npmVersion": "3.5.3",
   "_nodeVersion": "4.2.3",
@@ -52,7 +52,7 @@
     "email": "sureshkumarnagarajanmca@gmail.com"
   },
   "dist": {
-    "shasum": "006023e6a014cdf939bb31a32c8757418c826a30",
+    "shasum": "",
     "tarball": "http://registry.npmjs.org/base64encodedecode/-/base64encodedecode-0.0.1.tgz"
   },
   "maintainers": [
@@ -63,5 +63,5 @@
   ],
   "directories": {},
   "_resolved": "file:node_modules\\base64encodedecode",
-  "readme": "README.md"
+  "readme": "ERROR: No README data found!"
 }
