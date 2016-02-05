@@ -1,6 +1,6 @@
 {
   "name": "base64encodedecode",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Simple Base64 encode / decode function for Javascript supports UTF-8 encoding / decoding.",
   "main": "index.js",
   "scripts": {
@@ -63,5 +63,5 @@
   ],
   "directories": {},
   "_resolved": "file:node_modules\\base64encodedecode",
-  "readme": "ERROR: No README data found!"
+  "readme": "README.md"
 }
